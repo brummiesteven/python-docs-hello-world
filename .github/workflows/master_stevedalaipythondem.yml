@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'stevedalaipythondem'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A0A4904DA86E4F93A91C9D9294916E4A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_802C27A903574C6AB9322E3B24F74A40 }}
